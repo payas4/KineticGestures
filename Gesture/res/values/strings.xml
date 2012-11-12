@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Vítej v moji aplikaci na gesta</string>
+    <string name="app_name">Gesture</string>
+    <string name="prenos">Přenos dat</string>
+    <string name="spustitPrenosDat">Spustit přenos dat</string>
+    <string name="ipadresa">IP adresa</string>
+    <string name="connection">Ověř spojení</string>
+    <string name="save">Ulož</string>
+    <string name="zpracuj">Zpracuj Data</string>
+    <string name="print">Tisk do logu</string>
+    <string name="deleteMemory">Vymaž paměť</string>
+    <string name="saveToDB">Ulož do DB</string>
+    <string name="develop">Vývoj</string>
+    <string name="training">Učení</string>
+    <string name="testing">Testování</string>
+    <string name="gestureName">Název Gesta</string>
+    <string name="description">Popis</string>
+    <string name="numberOfAttempts">Počet pokusů</string>
+    <string name="start">Start</string>
+    <string name="startTrainingGesture">Zmáčkni a proveď gesto</string>
+
+</resources>
